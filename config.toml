@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Veidemann-dashboard Documentation"
+author = "Nettarkivet"
+theme = "docdock"
+
+[params]
+  # Shown in the home page
+  brand = "Innhold"
+  themeStyle = "flex"
+  themeVariant = "green"
+  orderselectionby = "weight"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
