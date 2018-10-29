@@ -1,3 +1,0 @@
----
-title: "Opprette en entitet"
----

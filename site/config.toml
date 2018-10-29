@@ -10,6 +10,18 @@ theme = "hugo-theme-learn"
  #showVisitedLinks = true
  #disableBreadcrumb = true
  #disableNextPrev = true
+ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+        name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Documentation repo"
+        identifier = "ds"
+        url = "https://github.com/nlnwa/veidemann-dashboard-documentation"
+weight = 10
+
+[[menu.shortcuts]]
+        name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Veidemann dashboard repo"
+        url = "https://github.com/nlnwa/veidemann-dashboard"
+weight = 20
