@@ -1,5 +1,6 @@
 ---
 title: "Schedule"
+weight: 3
 ---
 
 {{% notice info %}}
@@ -8,7 +9,7 @@ Benyttes av [crawljob](../crawljob)
 
 
 Schedule definerer et tidspunkt for en planlagt jobb, og brukes i Veidemann for å bestemme når ulike høstejobber skal kjøres.
-En schedule består metadata samt feltene i tabellen nedenfor.  
+En schedule består [metadata](../#veidemann-meta) samt feltene i tabellen nedenfor.  
 
 
 ![schedule overview](static/images/veidemann_dashboard_crawlscheduleconfig.png)

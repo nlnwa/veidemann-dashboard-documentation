@@ -16,6 +16,7 @@ Grensesnittet er oppdelt i tre seksjoner:
 **3. Visning**
 
 #### Verktøylinjen
+-------------------
 
 Ved å trykke på knappen til venstre i verktøylinjen kan man vise/skjule menyen.
 
@@ -45,7 +46,7 @@ Man blir da gitt to mulige metoder å logge inn på.
 
 
 #### Meny
-
+----------
 Fra menyen kan man som bruker utforske de ulike sidene for nettstedet.
 Hvilke sider som er tilgjengelig for en spesifikk bruker, avgjøres av
 rollen denne brukeren er tildelt.
@@ -57,5 +58,5 @@ oppe i venstre hjørne.
 
 
 #### Visning
-
+-------------
 Innholdet for en side vises her.

@@ -1,5 +1,6 @@
 ---
 title: "Politenessconfig"
+weight: 8
 ---
 
 {{% notice info %}}
