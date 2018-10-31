@@ -6,7 +6,7 @@ theme = "hugo-theme-learn"
 
 [params]
   description = "Dokumentasjon for veidemann dashboard "
-  themeVariant = "blue"
+  themeVariant = "veidemann-dashboard-documentation"
  #showVisitedLinks = true
  #disableBreadcrumb = true
  #disableNextPrev = true
