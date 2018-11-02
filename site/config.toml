@@ -1,27 +1,38 @@
 baseURL = "/"
-languageCode = "nb-NO"
+DefaultContentLanguage ="no"
+defaultContentLanguageInSubdir = true
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
+canonifyURLs = true
 
 [params]
   description = "Dokumentasjon for veidemann dashboard "
   themeVariant = "veidemann-dashboard-documentation"
- #showVisitedLinks = true
- #disableBreadcrumb = true
- #disableNextPrev = true
- menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+  menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+  home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.no]
+   title = "Dokumentasjon for Veidemann dashboard"
+   weight = 1
+   languageName = "Norsk"
+
+[Languages.en]
+   title = "Documentation for Veidemann dashboard"
+   weight = 2
+   languageName = "English"
+
 
 [[menu.shortcuts]]
-        name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Documentation repo"
-        identifier = "ds"
-        url = "https://github.com/nlnwa/veidemann-dashboard-documentation"
-weight = 10
+    name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Documentation repo"
+    identifier = "ds"
+    url = "https://github.com/nlnwa/veidemann-dashboard-documentation"
+    weight = 10
 
 [[menu.shortcuts]]
-        name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Veidemann dashboard repo"
-        url = "https://github.com/nlnwa/veidemann-dashboard"
-weight = 30
+    name = "<i class='fab fa-github'>&nbsp;&nbsp;</i> Veidemann dashboard repo"
+    url = "https://github.com/nlnwa/veidemann-dashboard"
+    weight = 30

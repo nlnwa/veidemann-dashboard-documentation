@@ -9,9 +9,9 @@ Benyttes av [crawlconfig](../crawlconfig)
 
 Politenessconfig setter innstillinger som avgjør hvor høy belastning en høstejobben skal utsette en host for.
 I tillegg til å begrense høsteren fra å overbelaste en nettside, settes også regler for hvordan høsteren skal forholde
-seg til robots.txt.
+seg til robots.txt. I tillegg til feltene nevnt nedenfor, inneholder også en politnessconfig [metadata](../#veidemann-meta)
 
-![politenessconfig overview](static/images/veidemann_dashboard_politenessconfig_overview.png)  
+![politenessconfig overview](/img/politenessconfig/veidemann_dashboard_politenessconfig_overview.png)  
 
 
 Felt                                                                | Betydning
@@ -46,7 +46,7 @@ Valgene man har her er:
 
 Velger crawlhostgroupconfig med en gitt label.  
 Dersom selector blir satt vil det letes etter en crawlhostgroupconfig som har en label som matcher.
-Vi har en match dersom minst selectoren matcher minst en label. Om det er angitt flere selectorer, må vær selector
+Vi har en match dersom minst selectoren matcher minst en label. Om det er angitt flere selectorer, må hver selector
 minst matche en label.  
 
 Søket med selector skiller mellom små og store bokstaver. Standardformatet er **nøkkel:verdi**, 

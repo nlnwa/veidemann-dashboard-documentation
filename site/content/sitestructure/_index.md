@@ -5,9 +5,10 @@ weight: 2
 ---
 
 Bildet under viser siden man blir møtt med i det man besøker https://nettarkivet.nb.no/veidemann.
+  
 Grensesnittet er oppdelt i tre seksjoner:
 
-![site structure](static/images/veidemann_dashboard_overview.png)
+![site structure](/img/sitestructure/veidemann_dashboard_overview.png)
 
 **1. Verkøylinje** 
 
@@ -36,13 +37,13 @@ Når brukeren er opprettet logger man inn ved å trykke *logg på*
 
 Man blir da gitt to mulige metoder å logge inn på.
 
-![dex login](static/images/veidemann_dashboard_login_dex.png)
+![dex login](/img/sitestructure/veidemann_dashboard_login_dex.png)
 
 *Log in with Email:* Brukere som er blitt opprettet med epost bruker denne metoden.
 
 *Log in with Pilt:* Brukere med innlogging med en Pilt bruker kan benyttet dette valget.
 
-![pilt login](static/images/veidemann_dashboard_login_pilt.png)
+![pilt login](/img/sitestructure/veidemann_dashboard_login_pilt.png)
 
 
 #### Meny
@@ -54,7 +55,7 @@ rollen denne brukeren er tildelt.
 Menyen er oppdelt i to deler. En del for systemet kjernefunksjoner og en for konfigurasjonene.
 Hele menyen kan skjules for å lage bedre plass til innholdet på en side ved å trykke på knappen 
 oppe i venstre hjørne.
-![dashboard menu](static/images/veidemann_dashboard_menu.png)
+![dashboard menu](/img/sitestructure/veidemann_dashboard_menu.png)
 
 
 #### Visning

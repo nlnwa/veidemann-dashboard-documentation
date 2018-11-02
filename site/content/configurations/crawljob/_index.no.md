@@ -3,15 +3,15 @@ title: "Crawljob"
 weight: 2
 ---
 
-{{% notice note %}}
-Benyttes av [seeds](../entities-and-seeds#seeds)
+{{% notice info %}}
+Benyttes av [seeds](../entities-and-seeds#seed)
 {{% /notice %}}
 
 
 Crawljob definerer innstillingene for en høstejobb. I tillegg til parameterene nevnt på denne siden 
 inneholder også konfigurasjonen [metadata](../#veidemann-meta).
 
-![crawljob overview](static/images/veidemann_dashboard_crawljob_overview.png)  
+![crawljob overview](/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
 
 
 Felt                                | Betydning

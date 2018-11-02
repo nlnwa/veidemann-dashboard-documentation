@@ -106,3 +106,10 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+img.left {
+    position: absolute;
+    left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-color: #0d3349;
+}
