@@ -67,7 +67,7 @@ I tillegg til en tallverdi, støtter feltene flere tegn for å spesifisere uttry
   </pre>  
 
 * Skråstrek (__/__): Kan brukes til sette steg verdier innen et intervall.
-Det kan bli brukt både på formen &ast;/c og a-b/c.
+ Det kan bli brukt både på formen &ast;/c og a-b/c.
 Feltet er da matchet hver c verdi i intervallet 0, maksverdi eller a-b.  
 <pre>
   <b style="color: green">*/5 * * * *</b>

@@ -7,12 +7,13 @@ weight: 2
 Used by [seeds](../entities-and-seeds#seed)
 {{% /notice %}}
 
-[metadata](../#veidemann-meta).
+Crawljob is used for define a job for harvesting. In addition to the parameters shown in the table below, 
+the configuration also contains [metadata](../#veidemann-meta).
 
 ![crawljob overview](/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
 
 
-Felt                                 | Betydning
+Field                                | Function
 -------------------------------------|------------------------------------------
 [Deactivated](#crawljob-disabled)    | Stop the job from running
 [Depth](#crawljob-depth)             | The depth to crawl
@@ -22,23 +23,31 @@ Felt                                 | Betydning
 [Crawlconfig](#crawljob-crawlconfig) | The [crawlconfig](../crawlconfig) to use  
 
 
-#### Deaktivert {#crawljob-disabled}
+#### Deactivated {#crawljob-disabled}
 --------------------------------------
+The switch is used to deativate the crawljob. With the switch set in the on position, the job will never run.
 
-
-#### Dybde {#crawljob-depth}
+#### Depth {#crawljob-depth}
 ----------------------------
+The depth decides how many levels of a web page to crawl. For example will a depth of the 3 mean that the crawler can
+visit 3 URL's way from the start page.
 
-#### Maks tid {#crawljob-max-time}
+#### Max time {#crawljob-max-time}
 ----------------------------------  
+The maximum time in seconds that the job is allowed to run. The job will then run from the start time given in the 
+schedule, until it reaches it's max time.
 
-#### Maks bytes {#crawljob-max-bytes}
--------------------------------------  
+#### Max bytes {#crawljob-max-bytes}
+------------------------------------- 
+The maximum amount of data, given in bytes, that crawler can download. If exceeded the job should be stopped.
  
 #### Schedule {#crawljob-schedule}
 ----------------------------------  
-[schedule](../schedule).
+Set the time for when the job should be run by defining a [schedule](../schedule).  
+The field is not required, but if the crawljob is missing a schedule the job will never run and must be started 
+manually. 
 
 #### Crawlconfig {#crawljob-crawlconfig}
 ----------------------------------------
-[crawlconfig](../crawlconfig).
+Choose what settings the crawljob should use be setting a [crawlconfig](../crawlconfig).
+The crawlconfig includes settings for the web browser used for harvesting and politeness settings. 

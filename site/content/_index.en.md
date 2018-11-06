@@ -12,7 +12,7 @@ The documentation is devided into three parts.
 #### Site structure
 ---------------------
 
-Contains an introduction to how the layout of Veidemann dashboard and which parts it consists of. 
+Contains an introduction to the layout of Veidemann dashboard and which parts it consists of. 
 
 #### Core
 ---------
@@ -22,6 +22,6 @@ Describes the core functionality of Veidemann dashboard.
 #### Konfigurasjoner
 -------------------
 
-Explaination of the different configurations in Veidemann dashboard, and how these can be used.
+Explains the different configurations in Veidemann dashboard, and how these can be used.
 
 

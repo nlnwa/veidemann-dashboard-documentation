@@ -8,12 +8,12 @@ weight: 11
 Siden inneholder status for valideringen av WARC-filene med det innhøstede materialet. Siden fokuserer på å vise frem
 WARC-filer som ikke er godkjent, men det kan også leses hvor mange filer som er blitt validert til å være gyldig.
 
-WARC-filer i Veidemann blir validert med en WARC-modul til biblioteket Jhove. Ved validering genereres det en rapport
+WARC-filer i Veidemann blir validert med en WARC-modul til biblioteket JHOVE. Ved validering genereres det en rapport
 som viser status for valideringen. Dersom rapporten viser at WARC-filen ikke er gyldig, vil filnavnet til rapporten med
 feil vises i tabellen.  
 
 Ved å klikke på et element i listen, hentes detaljert informasjon om feilen som er blitt registrert. Alle data som vises
-her er hentet ut fra rapporten som ble generert av Jhove.
+her er hentet ut fra rapporten som ble generert av JHOVE.
 
 
 ![warc status overview](/img/warcstatus/veidemann_dashboard_warcstatus_overview.png)
