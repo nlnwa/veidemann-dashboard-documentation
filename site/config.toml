@@ -23,11 +23,13 @@ relativeURLs = true
    title = "Dokumentasjon for Veidemann dashboard"
    weight = 1
    languageName = "Norsk"
+   contentDir = "content/norwegian"
 
 [Languages.en]
    title = "Documentation for Veidemann dashboard"
    weight = 2
    languageName = "English"
+   contentDir = "content/english"
 
 
 [[menu.shortcuts]]
