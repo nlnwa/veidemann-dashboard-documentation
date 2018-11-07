@@ -4,6 +4,8 @@ defaultContentLanguageInSubdir = true
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
+canonifyURLs = true
+relativeURLs = true
 
 [params]
   description = "Dokumentasjon for veidemann dashboard "
