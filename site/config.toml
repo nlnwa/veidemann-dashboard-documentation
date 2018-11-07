@@ -1,6 +1,6 @@
 
 DefaultContentLanguage ="no"
-baseURL = "/"
+baseURL = "/veidemann/docs"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
