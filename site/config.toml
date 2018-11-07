@@ -1,12 +1,13 @@
 
 DefaultContentLanguage ="no"
-baseURL = "/veidemann/docs"
+#baseURL = "/veidemann/docs"
+baseURL = "/"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
 canonifyURLs = true
 relativeURLs = true
-defaultContentLanguageInSubdir= true
+#defaultContentLanguageInSubdir= true
 
 [params]
   description = "Dokumentasjon for veidemann dashboard "
