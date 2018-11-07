@@ -12,16 +12,21 @@ relativeURLs = true
   themeVariant = "veidemann-dashboard-documentation"
   menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.no]
+   baseURL = "/"
    title = "Dokumentasjon for Veidemann dashboard"
    weight = 1
    languageName = "Norsk"
 
 [Languages.en]
+   baseURL = "/"
    title = "Documentation for Veidemann dashboard"
    weight = 2
    languageName = "English"
