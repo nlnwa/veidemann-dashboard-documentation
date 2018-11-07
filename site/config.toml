@@ -1,4 +1,4 @@
-baseURL = "https://veidemann.dev/veidemann/docs/"
+baseURL = "/"
 DefaultContentLanguage ="no"
 
 title = "Veidemann dashboard documentation"
@@ -23,13 +23,17 @@ relativeURLs = true
    title = "Dokumentasjon for Veidemann dashboard"
    weight = 1
    languageName = "Norsk"
+   languageCode = "nb-no"
    contentDir = "content/norwegian"
+   url = "/no/"
 
 [Languages.en]
    title = "Documentation for Veidemann dashboard"
    weight = 2
    languageName = "English"
+   languageCode = "en-us"
    contentDir = "content/english"
+   url = "/en/"
 
 
 [[menu.shortcuts]]

@@ -1,5 +1,6 @@
 ---
 title: "Browserconfig"
+aliases: [/en/configurations/browserconfig/]
 weight: 6
 ---
 
