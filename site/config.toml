@@ -1,7 +1,7 @@
 
 DefaultContentLanguage ="no"
-#baseURL = "/veidemann/docs"
 baseURL = "/"
+#baseURL = "/"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
@@ -27,7 +27,7 @@ relativeURLs = true
    languageName = "Norsk"
    languageCode = "nb-no"
    contentDir = "content/norwegian"
-   url = "/no/"
+   url = "veidemann/docs/no/"
 
 [Languages.en]
    title = "Documentation for Veidemann dashboard"
@@ -35,7 +35,7 @@ relativeURLs = true
    languageName = "English"
    languageCode = "en-us"
    contentDir = "content/english"
-   url = "/en/"
+   url = "veidemann/docs/en/"
 
 
 [[menu.shortcuts]]
