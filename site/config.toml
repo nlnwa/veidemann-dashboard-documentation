@@ -1,6 +1,6 @@
 
 DefaultContentLanguage ="no"
-baseURL = "/"
+baseURL = ""
 #baseURL = "/"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
