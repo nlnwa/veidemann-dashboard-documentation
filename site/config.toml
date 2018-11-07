@@ -1,6 +1,6 @@
 baseURL = "/"
 DefaultContentLanguage ="no"
-defaultContentLanguageInSubdir = true
+
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
@@ -20,13 +20,11 @@ relativeURLs = true
 
 [Languages]
 [Languages.no]
-   baseURL = "/"
    title = "Dokumentasjon for Veidemann dashboard"
    weight = 1
    languageName = "Norsk"
 
 [Languages.en]
-   baseURL = "/"
    title = "Documentation for Veidemann dashboard"
    weight = 2
    languageName = "English"
