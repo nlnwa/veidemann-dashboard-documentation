@@ -1,4 +1,4 @@
-baseURL = "/veidemann/docs/"
+baseURL = "https://veidemann.dev/veidemann/docs/"
 DefaultContentLanguage ="no"
 
 title = "Veidemann dashboard documentation"
