@@ -1,7 +1,7 @@
 
 DefaultContentLanguage ="no"
-baseURL = "/veidemann/docs/"
-#baseURL = "/"
+# baseURL = "/veidemann/docs/" port følger med om denne benyttes?
+baseURL = "/"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
