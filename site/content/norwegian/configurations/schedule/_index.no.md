@@ -12,7 +12,7 @@ Schedule definerer et tidspunkt for en planlagt jobb, og brukes i Veidemann for 
 En schedule består [metadata](../#veidemann-meta) samt feltene i tabellen nedenfor.  
 
 
-![schedule overview](/img/schedule/veidemann_dashboard_crawlscheduleconfig.png)
+![schedule overview](/veidemann/docs/img/schedule/veidemann_dashboard_crawlscheduleconfig.png)
 
 
 
@@ -188,4 +188,4 @@ Feltene kan enten settes ved å skrive datoen på form *dd.mm.åååå* eller ve
 Gyldig fra gjelder da fra begynnelsen av valgte dato klokken 00:00:00, mens gyldig til går til slutten av valgt dato til klokken 23:59:59.  
 
 
-![valid from datepicker](/img/schedule/veidemann_dashboard_schedule_validfrom.png)
+![valid from datepicker](/veidemann/docs/img/schedule/veidemann_dashboard_schedule_validfrom.png)

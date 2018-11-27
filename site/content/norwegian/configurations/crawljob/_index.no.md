@@ -11,7 +11,7 @@ Benyttes av [seeds](../entities-and-seeds#seed)
 Crawljob definerer innstillingene for en høstejobb. I tillegg til parameterene nevnt på denne siden 
 inneholder også konfigurasjonen [metadata](../#veidemann-meta).
 
-![crawljob overview](/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
+![crawljob overview](/veidemann/docs/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
 
 
 Felt                                | Betydning

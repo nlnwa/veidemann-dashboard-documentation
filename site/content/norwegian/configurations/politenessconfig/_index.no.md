@@ -11,7 +11,7 @@ Politenessconfig setter innstillinger som avgjør hvor høy belastning en høste
 I tillegg til å begrense høsteren fra å overbelaste en nettside, settes også regler for hvordan høsteren skal forholde
 seg til robots.txt. I tillegg til feltene nevnt nedenfor, inneholder også en politnessconfig [metadata](../#veidemann-meta)
 
-![politenessconfig overview](/img/politenessconfig/veidemann_dashboard_politenessconfig_overview.png)  
+![politenessconfig overview](/veidemann/docs/img/politenessconfig/veidemann_dashboard_politenessconfig_overview.png)  
 
 
 Felt                                                                | Betydning

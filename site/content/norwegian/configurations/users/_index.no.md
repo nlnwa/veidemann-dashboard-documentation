@@ -7,7 +7,7 @@ weight: 10
 Fra denne siden håndteres brukere av Veidemann dashboard. Her har man muligheten til å opprette nye brukere av systemet, 
 eller redigere eksisterende.
 
-![users overview](/img/users/veidemann_dashboard_users_overview.png)
+![users overview](/veidemann/docs/img/users/veidemann_dashboard_users_overview.png)
 
 En bruker identifiseres ved hjelp av en av to  tilgjengelige typer:  
 

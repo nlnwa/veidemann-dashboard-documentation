@@ -36,7 +36,7 @@ Most of the configuration pages have the same layout, and consists of two parts:
 - List of all available configurations.
 - Details for a selected configuration. 
 
-![configuration pages overview](/img/config/veidemann_dashboard_configuration_pages_overview.png)  
+![configuration pages overview](/veidemann/docs/img/config/veidemann_dashboard_configuration_pages_overview.png)  
 
 ##### Create a new config
 
@@ -74,7 +74,7 @@ Fields with on/off values (true/false), will be deactivated if the value is not 
 common value for all, the field most be activated by clicking on it, and the set to the desired value. 
 {{% /notice %}}
 
-![config selected multiupdate](/img/config/veidemann_dashboard_configuration_selected_multiupdate.png)
+![config selected multiupdate](/veidemann/docs/img/config/veidemann_dashboard_configuration_selected_multiupdate.png)
 
 
 ##### Update all available configurations
@@ -84,9 +84,9 @@ there will be no comparing for common values. If a field remains empty when upda
 keep the orignal value of this field. 
 
 
-![config all on page selected](/img/config/veidemann_dashboard_all_configs_on_page_selected.png)
+![config all on page selected](/veidemann/docs/img/config/veidemann_dashboard_all_configs_on_page_selected.png)
 
-![config all configs selected](/img/config/veidemann_dashboard_all_configs_selected.png)
+![config all configs selected](/veidemann/docs/img/config/veidemann_dashboard_all_configs_selected.png)
 
 
 #### Meta {#veidemann-meta}
@@ -97,7 +97,7 @@ about the configuration.
 
 The content in meta can be found in the table below.  
 
-![meta overview](/img/config/veidemann_dashboard_meta_overview.png)  
+![meta overview](/veidemann/docs/img/config/veidemann_dashboard_meta_overview.png)  
 
 
 Field                                       | Function
@@ -129,10 +129,10 @@ A label consist of a key-value-pair on the form: **key:value**, and is created b
 desired value in before mentioned form and press enter.
 
 Existing labels can be edited or deleted. By clicking on a label you will also be able to edit key and/or value.
-![meta label](/img/config/veidemann_dashboard_meta_label.png)
+![meta label](/veidemann/docs/img/config/veidemann_dashboard_meta_label.png)
 
 
-![meta edit label](/img/config/veidemann_dashboard_meta_edit_label.png)
+![meta edit label](/veidemann/docs/img/config/veidemann_dashboard_meta_edit_label.png)
 
 ##### Created {#meta-created}
 ------------------------------

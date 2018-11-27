@@ -17,4 +17,4 @@ I tillegg til [metadata](../#veidemann-meta), kan en crawlhostgroupconfig inneho
 IP-addressene kan enten være en IPv4 eller IPv6 addresse, men både til og fra addresse må være av samme IP-versjon.
 I tillegg må verdien før første punktum (IPv4) eller kolon (IPv6), i hver av dem være lik for IP-rangen skal ses som gyldig.
 
-![crawlhostgroupconfig overview](/img/crawlhostgroupconfig/veidemann_dashboard_crawlhostgroupconfig_overview.png)
+![crawlhostgroupconfig overview](/veidemann/docs/img/crawlhostgroupconfig/veidemann_dashboard_crawlhostgroupconfig_overview.png)

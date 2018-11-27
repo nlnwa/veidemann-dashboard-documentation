@@ -12,7 +12,7 @@ for the web browser during harvesting, and which politeness settings should be u
 
 In addition to the settings discussed on this page, the configuration also contain [metadata](../#veidemann-meta).
 
-![crawlconfig overview](/img/crawlconfig/veidemann_dashboard_crawlconfig_overview.png)
+![crawlconfig overview](/veidemann/docs/img/crawlconfig/veidemann_dashboard_crawlconfig_overview.png)
 
 Field                                            | Function
 -------------------------------------------------|------------------------------------------

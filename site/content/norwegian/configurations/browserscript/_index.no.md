@@ -11,4 +11,4 @@ Et browserscript består av [metadata](../#veidemann-meta) og et script.
 Browserscript kan bli brukt av browserconfig til å legge inn et script i nettleseren som høsteren 
 bruker.  
 
-![browserscript overview](/img/browserscript/veidemann_dashboard_browserscript_overview.png)
+![browserscript overview](/veidemann/docs/img/browserscript/veidemann_dashboard_browserscript_overview.png)

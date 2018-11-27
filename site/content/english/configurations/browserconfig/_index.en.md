@@ -12,7 +12,7 @@ Browserconfig contains settings for  the web browser used by the crawler. In add
 does a browserconfig contain fields for [metadata](../#veidemann-meta).
 
 
-![browserconfig overview](/img/browserconfig/veidemann_dashboard_browserconfig_overview.png)
+![browserconfig overview](/veidemann/docs/img/browserconfig/veidemann_dashboard_browserconfig_overview.png)
 
 
  Field                                                         | Function

@@ -6,7 +6,7 @@ weight: 1
 
 Fra entiter og seeds kan man legge til og administrere nettsteder som skal høstes. 
 
-![Entities and seeds overview](/img/entities_and_seed/veidemann_dashboard_entities_and_seeds_overview.png)
+![Entities and seeds overview](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_entities_and_seeds_overview.png)
 
 #### Søk
 -------
@@ -18,9 +18,9 @@ Ikonene i listen viser hvor søket har funnet match.
 
 Ikon                                                                       | Treff 
 ---------------------------------------------------------------------------|---------
-![entity icon](/img/entities_and_seed/veidemann_dashboard_entity_icon.png) | Entitet
-![seed icon](/img/entities_and_seed/veidemann_dashboard_seed_icon.png)     | Seed  
-![label icon](/img/entities_and_seed/veidemann_dashboard_label_icon.png)   | Label
+![entity icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_entity_icon.png) | Entitet
+![seed icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_seed_icon.png)     | Seed  
+![label icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_label_icon.png)   | Label
 
 
 #### Entitet {#entity}

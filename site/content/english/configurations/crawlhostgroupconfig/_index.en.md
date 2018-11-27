@@ -18,4 +18,4 @@ The IP addresses could either be IPv4 or IPv6 addresse,  but both the from and t
 The first part of the address (before the first *.* in IPv4 and the first *:* in IPv&) in each of them  should also be
 the same to be considered as a valid range.
 
-![crawlhostgroupconfig overview](/img/crawlhostgroupconfig/veidemann_dashboard_crawlhostgroupconfig_overview.png)
+![crawlhostgroupconfig overview](/veidemann/docs/img/crawlhostgroupconfig/veidemann_dashboard_crawlhostgroupconfig_overview.png)

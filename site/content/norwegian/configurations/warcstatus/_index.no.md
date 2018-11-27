@@ -16,7 +16,7 @@ Ved å klikke på et element i listen, hentes detaljert informasjon om feilen so
 her er hentet ut fra rapporten som ble generert av JHOVE.
 
 
-![warc status overview](/img/warcstatus/veidemann_dashboard_warcstatus_overview.png)
+![warc status overview](/veidemann/docs/img/warcstatus/veidemann_dashboard_warcstatus_overview.png)
 
 Felt                                                | Betydning
 ----------------------------------------------------|------------------------------------------------------

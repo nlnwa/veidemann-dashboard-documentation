@@ -35,7 +35,7 @@ De fleste av konfigurasjonssidene er utformet likt, og består av to deler:
 - Liste over tilgjengelige konfigurasjoner.  
 - Detaljer for en valgt konfigurasjon.
 
-![configuration pages overview](/img/config/veidemann_dashboard_configuration_pages_overview.png)  
+![configuration pages overview](/veidemann/docs/img/config/veidemann_dashboard_configuration_pages_overview.png)  
 
 ##### Opprette en konfigurasjon
 
@@ -77,7 +77,7 @@ Felter som har av/på verdier, vil bli deaktivert dersom alle de markerte ikke h
 lik for alle må feltet trykkes på og deretter settes til ønsket verdi.
 {{% /notice %}}
 
-![config selected multiupdate](/img/config/veidemann_dashboard_configuration_selected_multiupdate.png)
+![config selected multiupdate](/veidemann/docs/img/config/veidemann_dashboard_configuration_selected_multiupdate.png)
 
 
 ##### Oppdatere alle tilgjengelige konfigurasjoner
@@ -87,9 +87,9 @@ Dersom man velger dette vil absolutt alle konfigurasjonene av denne typen oppdat
 detaljevinduet vise om enkelte felter er like for alle valgte. Tomme felter her betyr at konfigurasjonen skal beholde 
 sin opprinnelige verdi.
 
-![config all on page selected](/img/config/veidemann_dashboard_all_configs_on_page_selected.png)
+![config all on page selected](/veidemann/docs/img/config/veidemann_dashboard_all_configs_on_page_selected.png)
 
-![config all configs selected](/img/config/veidemann_dashboard_all_configs_selected.png)
+![config all configs selected](/veidemann/docs/img/config/veidemann_dashboard_all_configs_selected.png)
 
 
 #### Meta {#veidemann-meta}
@@ -101,7 +101,7 @@ informasjon om konfigurasjonen.
 Innholdet i meta kan leses ut fra tabellen nedenfor.
 
 
-![meta overview](/img/config/veidemann_dashboard_meta_overview.png)  
+![meta overview](/veidemann/docs/img/config/veidemann_dashboard_meta_overview.png)  
 
 
 Felt                                      | Betydning
@@ -135,7 +135,7 @@ Labels er egendefinerte merkelapper som brukes til å markere konfigurasjonene m
 Eksempelvis kan en label brukes til gruppering av ulike konfigurasjone eller som et søkeord om man leter etter en
 spesifikk konfigurasjon. 
 
-![meta label](/img/config/veidemann_dashboard_meta_label.png)
+![meta label](/veidemann/docs/img/config/veidemann_dashboard_meta_label.png)
 
 En label består av et nøkkel/verdi-par på formen: **nøkkel:verdi**, og opprettes ved å trykke på linjen og skrive inn 
 ønsket verdi på nevnte form og trykke enter.  
@@ -143,7 +143,7 @@ En label består av et nøkkel/verdi-par på formen: **nøkkel:verdi**, og oppre
 Eksisterende labels kan også redigeres eller slettes. Ved å trykke på en label vil man få muligheten til å redigere
 nøkkel og verdi.
 
-![meta edit label](/img/config/veidemann_dashboard_meta_edit_label.png)
+![meta edit label](/veidemann/docs/img/config/veidemann_dashboard_meta_edit_label.png)
 
 ##### Opprettet {#meta-created}
 ------------------------------

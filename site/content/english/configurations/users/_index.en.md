@@ -7,7 +7,7 @@ weight: 10
 From the user page you can administrate users of Veidemann dashboard. A user with admin rights cant create new users or
 manage existing users of the system.
 
-![users overview](/img/users/veidemann_dashboard_users_overview.png)
+![users overview](/veidemann/docs/img/users/veidemann_dashboard_users_overview.png)
 
 A user is identified with one of two types:
 

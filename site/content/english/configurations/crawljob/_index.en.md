@@ -10,7 +10,7 @@ Used by [seeds](../entities-and-seeds#seed)
 Crawljob is used for define a job for harvesting. In addition to the parameters shown in the table below, 
 the configuration also contains [metadata](../#veidemann-meta).
 
-![crawljob overview](/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
+![crawljob overview](/veidemann/docs/img/crawljob/veidemann_dashboard_crawljob_overview.png)  
 
 
 Field                                | Function

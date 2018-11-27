@@ -12,7 +12,7 @@ Browserconfig inneholder innstillinger for nettleseren som benyttes til høsting
 nedenfor, har browserconfig  felter for [metadata](../#veidemann-meta).
 
 
-![browserconfig overview](/img/browserconfig/veidemann_dashboard_browserconfig_overview.png)
+![browserconfig overview](/veidemann/docs/img/browserconfig/veidemann_dashboard_browserconfig_overview.png)
 
 
  Felt                                                          | Funksjon

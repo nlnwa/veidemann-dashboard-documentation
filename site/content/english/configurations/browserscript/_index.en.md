@@ -10,4 +10,4 @@ Browserscript is used by [browserconfig](../browserconfig/_index.en.md)
 A browserscript consists of [metadata](../#veidemann-meta) and a script.  
 Browserscript can be used by browserconfig to add a script to the browser used while crawling.  
 
-![browserscript overview](/img/browserscript/veidemann_dashboard_browserscript_overview.png "Browserscript overview")
+![browserscript overview](/veidemann/docs/img/browserscript/veidemann_dashboard_browserscript_overview.png)

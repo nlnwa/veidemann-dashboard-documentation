@@ -13,7 +13,7 @@ nettleseren som brukes til høstingen skal benytte, og hvor høffelig høsteren 
 I tillegg til parameterene nevnt på denne siden 
 inneholder også konfigurasjonen [metadata](../#veidemann-meta).
 
-![crawlconfig overview](/img/crawlconfig/veidemann_dashboard_crawlconfig_overview.png)
+![crawlconfig overview](/veidemann/docs/img/crawlconfig/veidemann_dashboard_crawlconfig_overview.png)
 
 Felt                                             | Betydning
 -------------------------------------------------|------------------------------------------

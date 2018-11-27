@@ -11,7 +11,7 @@ Politenessconfig contains settings that determines how much pressure the crawler
 In addition to limit the crawler from overloading a website, it also set policies for how the crawler shall follow  
 robots.txt. Apart from the fields described below, a politenessconfig also consists of [metadata](../#veidemann-meta).
 
-![politenessconfig overview](/img/politenessconfig/veidemann_dashboard_politenessconfig_overview.png)  
+![politenessconfig overview](/veidemann/docs/img/politenessconfig/veidemann_dashboard_politenessconfig_overview.png)  
 
 
 Field                                                               | Function

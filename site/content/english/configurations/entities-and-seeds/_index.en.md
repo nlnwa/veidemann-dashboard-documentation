@@ -5,7 +5,7 @@ weight: 1
 
 From entities and seeds a user can add and administrate web pages to harvest.
 
-![Entities and seeds overview](/img/entities_and_seed/veidemann_dashboard_entities_and_seeds_overview.png)
+![Entities and seeds overview](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_entities_and_seeds_overview.png)
 
 #### Search
 ------------
@@ -16,9 +16,9 @@ The icons shown in the list, will show where the match was found.
 
 Icon                                                                       | Hit 
 ---------------------------------------------------------------------------|---------
-![entity icon](/img/entities_and_seed/veidemann_dashboard_entity_icon.png) | Entity
-![seed icon](/img/entities_and_seed/veidemann_dashboard_seed_icon.png)     | Seed  
-![label icon](/img/entities_and_seed/veidemann_dashboard_label_icon.png)   | Label
+![entity icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_entity_icon.png) | Entity
+![seed icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_seed_icon.png)     | Seed  
+![label icon](/veidemann/docs/img/entities_and_seed/veidemann_dashboard_label_icon.png)   | Label
 
 
 #### Entity {#entity}

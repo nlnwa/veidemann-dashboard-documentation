@@ -11,7 +11,7 @@ Schedule defines a time for scheduled job, and is used in Veidemann to determine
 A schedule consists of [metadata](../#veidemann-meta) and the values in the table below.  
 
 
-![schedule overview](/img/schedule/veidemann_dashboard_crawlscheduleconfig.png)
+![schedule overview](/veidemann/docs/img/schedule/veidemann_dashboard_crawlscheduleconfig.png)
 
 
 
@@ -183,4 +183,4 @@ clicking <i class="fa fa-calendar"></i>.
 Valid from will then be the beginningof the selected date from 00:00:00, while valid to will the end of the selected
 date until 23:59:59.
 
-![valid from datepicker](/img/schedule/veidemann_dashboard_schedule_validfrom.png)
+![valid from datepicker](/veidemann/docs/img/schedule/veidemann_dashboard_schedule_validfrom.png)
