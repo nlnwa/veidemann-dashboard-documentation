@@ -1,18 +1,15 @@
 
 DefaultContentLanguage ="no"
-# baseURL = "/veidemann/docs/" port følger med om denne benyttes?
 baseURL = "nettarkivet/veidemann/docs/"
 title = "Veidemann dashboard documentation"
 author = "Nettarkivet"
 theme = "hugo-theme-learn"
-# canonifyURLs = true
-# relativeURLs = true
-#defaultContentLanguageInSubdir= true
+
 
 [params]
   description = "Dokumentasjon for veidemann dashboard "
   themeVariant = "veidemann-dashboard-documentation"
-  menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+  menushortcutsnewtab = true
 
 [blackfriday]
   hrefTargetBlank = true
