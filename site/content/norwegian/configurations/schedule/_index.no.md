@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-weight: 3
+weight: 4
 ---
 
 {{% notice info %}}

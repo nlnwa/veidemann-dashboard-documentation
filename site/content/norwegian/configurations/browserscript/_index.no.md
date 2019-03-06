@@ -1,6 +1,6 @@
 ---
 title: "Browserscript"
-weight: 7
+weight: 8
 ---
 
 {{% notice info%}}

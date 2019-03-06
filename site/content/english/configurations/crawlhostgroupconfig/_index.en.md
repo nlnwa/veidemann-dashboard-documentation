@@ -1,6 +1,6 @@
 ---
 title: "Crawlhostgroupconfig"
-weight: 5
+weight: 6
 ---
 {{% notice info %}}
 Used by [politenessconfig](../politenessconfig)

@@ -1,6 +1,6 @@
 ---
 title: "Browserconfig"
-weight: 6
+weight: 7
 ---
 
 {{% notice info%}}

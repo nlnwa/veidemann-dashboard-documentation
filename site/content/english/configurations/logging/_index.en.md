@@ -1,6 +1,6 @@
 ---
 title: "Logging"
-weight: 9
+weight: 10
 ---
 
 missing translation

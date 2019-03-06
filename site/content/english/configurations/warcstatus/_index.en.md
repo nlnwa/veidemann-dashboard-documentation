@@ -1,7 +1,7 @@
 ---
 title: "WARC status"
 parent: "configurations"
-weight: 11
+weight: 12
 ---
 This page contains information about the validation step for harvested material. The page focuses on showing invalid
 WARC files, but also the number of valid WARC files could be found in the upper right corner.

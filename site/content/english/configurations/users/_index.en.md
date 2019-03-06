@@ -1,7 +1,7 @@
 ---
 title: "Users"
 parent: "configurations"
-weight: 10
+weight: 11
 ---
 
 From the user page you can administrate users of Veidemann dashboard. A user with admin rights cant create new users or

@@ -1,7 +1,7 @@
 ---
 title: "Brukere"
 parent: "configurations"
-weight: 10
+weight: 11
 ---
 
 Fra denne siden håndteres brukere av Veidemann dashboard. Her har man muligheten til å opprette nye brukere av systemet, 
